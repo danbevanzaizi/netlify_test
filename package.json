@@ -12,6 +12,9 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
+  "engine": {
+    "node": "18.x"
+  },
   "dependencies": {
     "gatsby": "^5.4.0",
     "gatsby-plugin-netlify-cms": "^7.4.0",
